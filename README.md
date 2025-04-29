@@ -1,2 +1,2 @@
 # ML-Projects.-Statistics
-Interesting problems to test my skills in ML
+Interesting problems to test my skills in statistics
